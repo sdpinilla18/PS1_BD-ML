@@ -1,5 +1,5 @@
 #==============================================================================#
-# Problem Set #1, BD&ML                                                        #
+# Problem Set #1, BD&ML1                                                        #
 # David Santiago Caraballo, 
 # Sergio David Pinilla, 
 # Juan Diego Valencia, 
