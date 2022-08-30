@@ -20,5 +20,3 @@ for (url in dc_url){
   temp<-as.data.frame(temp[[1]])
   df<-rbind(df, temp)
 }
-
-
