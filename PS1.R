@@ -2,7 +2,7 @@
 #      Problem Set 1 Big Data and Machine Learning for Applied Economics      #
 #           David Santiago Caraballo Candela             201813007            #
 #           Sergio David Pinilla Padilla                 201814755            #
-#           Juan Diego Valencia Romero                   201815561            #
+#           Juan Diego Valencia Romero  .               201815561            #
 #=============================================================================#
 
 #Initial workspace configuration
