@@ -25,5 +25,3 @@ save(df, file="bdPS1.Rdata")
 #Read dataset
 df2<-load("C:/Users/juand/Desktop/Big Data/Taller 1/PS1_BD-ML/basePS1.Rdata")
 
-
-
