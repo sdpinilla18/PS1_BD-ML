@@ -22,18 +22,7 @@ for (url in dc_url){
 }
 #Save database
 save(df, file="bdPS1.Rdata")
-#Load data
-db <- load("bdPS1.Rdata")
 
 
-
-
-
-
-
-
-
-
-#
 
 
