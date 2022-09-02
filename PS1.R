@@ -24,5 +24,11 @@ for (url in dc_url){
 #Save database
 save(df, file="bdPS1.Rdata")
 
+<<<<<<< HEAD
+
+
+
+=======
 #Load data
 db <- load("bdPS1.Rdata")
+>>>>>>> 309a2ce8f9a8a5f5aa53c0517857fd47341c6139
