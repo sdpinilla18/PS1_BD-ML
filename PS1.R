@@ -20,6 +20,20 @@ for (url in dc_url){
   temp<-as.data.frame(temp[[1]])
   df<-rbind(df, temp)
 }
-
+#Save database
+save(df, file="bdPS1.Rdata")
 #Load data
-db=load("bdPS1.Rdata")
+db <- load("bdPS1.Rdata")
+
+
+
+
+
+
+
+
+
+
+#
+
+
