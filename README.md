@@ -14,7 +14,7 @@ Este trabajo tenía como objetivo el desarrollo de un modelo de predicción del 
 
 Para organizar y testear la especificacion optima del modelo predictivo, se comenzó estimando dos (2) modelos estructurales que buscaban identificar si las variables de edad y género eran determinantes a la hora de entender el comportamiento del ingreso laboral de los ciudadanos. Posteriormente, a partir de estas especificaciones se fueron agregando regresores y controles que pretendían aumentar el poder predictivo del modelo, y la especificación final que se escogió utilizando el proceso de *Leave-One-Out-Cross-validation (LOOCV)*.
 
-**1. Data-scraping**
+**1. *Data-scraping***
 
 La totalidad de la base de datos fue obtenida mediante un proceso de *data-scraping* realizado en el entorno de programación **R**. Encontramos que, para nosotros esta era la forma más fácil y eficiente de hacerlo dado que teniamos los conocimientos necesarios y en este programa el proceso es más sencillo y directo que en otros.
 
