@@ -16,13 +16,11 @@ Para organizar y testear la especificacion optima del modelo predictivo, se come
 
 **1. *Data-scraping***
 
-La totalidad de la base de datos fue obtenida mediante un proceso de *data-scraping* realizado en el entorno de programación **R**. Encontramos que, para nosotros esta era la forma más fácil y eficiente de hacerlo dado que teniamos los conocimientos necesarios y en este programa el proceso es más sencillo y directo que en otros.
-
-Para realizar el data-scraping fue necesario tener disponibles la libreria `pacman` y los paquetes `tidyverse`, `data.table`, `plyr`, `rvest`, `XML` y `xml2`.
+La totalidad de la base de datos fue obtenida mediante un proceso de *data-scraping* realizado en un entorno de desarrollo integrado para el lenguaje de programación **R**. Encontramos que, para nosotros esta era la forma más fácil y eficiente de hacerlo dado que se proveyó una explicación específica en la clase complementeria y en este programa el proceso es más sencillo y directo. Para realizar el *data-scraping* fue necesario tener disponibles la libreria `pacman` y los paquetes `tidyverse`, `data.table`, `plyr`, `rvest`, `XML` y `xml2`.
 
 El código utilizado se encuentra en el *R script* titulado "Datascraping.R". Al utilizar este script se exporta toda la *raw-database* de la GEIH 2018 para Bogotá DC con 32177 observaciones y 178 variables al archivo "bdPS1.Rdata".
 
-**2. Data cleaning & Modeling**
+**2. *Data cleaning & Modelling**
 
 Luego de realizar el *data-scraping* en **R**, migramos a **Python** para realizar la limpieza y organización de la base de datos, y la modelación y estimación de todas las especificaciones propuestas. Se tomó esta decisión dado que, por un lado, poseemos mayores conocimientos técnicos en **Python**, y, por otro lado, consideramos que es un programa mucho más versátil y eficiente a la hora de procesar grandes cantidades de datos (en especial teniendo en cuenta que para este taller se utilizaron estimaciones de errores estándar con *bootstrap* y errores de predicción con LOOCV).
 
