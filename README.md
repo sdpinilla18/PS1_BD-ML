@@ -1,6 +1,6 @@
 ## Repositorio Taller 1, 2022-2
 
-**Big Data and Machine Learing for Applied Economics*
+**Big Data and Machine Learing for Applied Economics**
 **Facultad de Economía**
 **Universidad de los Andes**
 
