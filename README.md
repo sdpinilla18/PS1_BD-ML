@@ -1,7 +1,6 @@
-## Repositorio Taller 1, 2022-2
+## Repositorio Taller 1
 
 
-**Big Data and Machine Learing for Applied Economics**
 
 **Facultad de Economía**
 
@@ -11,7 +10,7 @@ Integrantes:
 
 [David Santiago Caraballo Candela](https://github.com/scaraballoc), [Sergio David Pinilla Padilla](https://github.com/sdpinilla18) & [Juan Diego Valencia Romero](https://github.com/judval)
 
-En este repositorio se encuentran todos los documentos, bases de datos y códigos utilizados durante el desarrollo del primer taller de la clase *Big Data & Machine Learning for Applied Economics*, del profesor [Ignacio Sarmiento](https://ignaciomsarmiento.github.io/), durante el segundo semestre de 2022.
+En el presente repositorio se encuentran todos los documentos, bases de datos y códigos utilizados durante el desarrollo del Taller 1 de la clase *Big Data & Machine Learning for Applied Economics*, del profesor [Ignacio Sarmiento](https://ignaciomsarmiento.github.io/), durante el segundo semestre del año 2022.
 
 Este trabajo tenía como objetivo el desarrollo de un modelo de predicción del ingreso de los ciudadanos de Bogotá DC, Colombia, a partir del uso de una [base de datos](https://ignaciomsarmiento.github.io/GEIH2018_sample/) del 2018 de la Gran Encuesta Integrada de Hogares (GEIH) del Departamento Administrativo Nacional de Estadistica (DANE). Esto, con la intención de mejorar el proceso de identificación de fraude fiscal en personas que no reportan la totalidad de sus ingresos a las entidades gubernamentales.
 
