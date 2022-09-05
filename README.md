@@ -4,7 +4,7 @@
 
 Integrantes:
 
-David Santiago Caraballo Candela, Sergio David Pinilla Padilla & Juan Diego Valencia Romero
+[David Santiago Caraballo Candela](https://github.com/scaraballoc), [Sergio David Pinilla Padilla](https://github.com/sdpinilla18) & [Juan Diego Valencia Romero](https://github.com/judval)
 
 En este repositorio se encuentran todos los documentos, bases de datos y códigos utilizados durante el desarrollo del primer taller de la clase *Big Data & Machine Learning for Applied Economics*, del profesor [Ignacio Sarmiento](https://ignaciomsarmiento.github.io/), durante el segundo semestre de 2022.
 
